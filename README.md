@@ -1,4 +1,4 @@
-## Monitoramento, coleta e apresentação de dados de variaveis ambientais através de sensores usando Arduino e Raspberry Pi
+## Monitoramento, coleta e apresentação de dados de variáveis ambientais através de sensores utilizando Arduino e Raspberry Pi
 
 
 #### Esquema de dispositivos e sensores
